@@ -1,4 +1,4 @@
-package newcoder;
+package newcoder.huawei;
 import java.util.Map;
 import java.util.Scanner;
 import java.util.TreeMap;

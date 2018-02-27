@@ -1,4 +1,4 @@
-package newcoder;
+package newcoder.huawei;
 
 import java.util.HashMap;
 import java.util.Map;

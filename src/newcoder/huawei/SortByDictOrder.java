@@ -1,4 +1,4 @@
-package newcoder;
+package newcoder.huawei;
 
 /**
  *
